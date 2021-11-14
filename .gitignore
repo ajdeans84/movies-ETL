@@ -6,6 +6,9 @@ links_small.csv
 ratings.csv
 ratings_small.csv
 
+# Config
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
